@@ -1,0 +1,6 @@
+﻿<?
+	echo "<table border=1> 
+		<tr><td>name</td> <td>identityNumber</td> <td>phoneNumber</td> <td>address</td> </tr>
+		<tr><td>김진원</td> <td>123456-7891234</td> <td>010-0101-1010</td> <td>경북 상주시 남문 문 난ㅇㄹ</td></tr>
+		</table>";
+?>
